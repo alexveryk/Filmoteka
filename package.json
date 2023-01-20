@@ -5,7 +5,8 @@
   "homepage": "https://alexveryk.github.io/Filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka/"
+    "build": "parcel build src/*.html --public-url /Filmoteka /",
+    "test:" "1"
   },
   "repository": {
     "type": "git",
@@ -28,3 +29,4 @@
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
+ 
